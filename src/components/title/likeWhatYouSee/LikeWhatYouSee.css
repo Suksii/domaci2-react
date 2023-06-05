@@ -1,0 +1,11 @@
+@font-face {
+    font-family: "Butler_Light";
+    src: url("../../assets/fonts/Butler_Light");
+}
+
+.__like-what-you-see{
+    text-align: center;
+    margin: auto;
+    font-size: 72px;
+    font-family: "Butler_Light";
+}

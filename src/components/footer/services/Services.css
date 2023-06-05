@@ -1,0 +1,15 @@
+.__services{
+    text-align: center;
+    color: #FFFFFF;
+}
+.__services__p1{
+    padding-top: 2%;
+    font-size: 26px;
+    font-family: "Gilroy-Regular";
+}
+.__services__p2{
+    font-size: 34px;
+    font-family: "Gilroy-Bold";
+    text-decoration: line-through;
+    text-decoration-color: green;
+}

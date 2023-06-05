@@ -1,0 +1,16 @@
+.__products-p{
+    text-align: center;
+    margin-top: 5%;
+}
+.__products-p .p1{
+    font-size: 46px;
+    color: #283E51;
+    font-family: "Gilroy-Bold";
+}
+.__products-p .p2{
+    font-size: 65px;
+    color: #17AC9D;
+    transform: translateY(-115%);
+    font-family: "Rockness-Regular";
+    margin-bottom: 0;
+}

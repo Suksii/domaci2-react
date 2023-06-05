@@ -1,0 +1,14 @@
+.__introduction-p{
+    margin-top: 4%;
+}
+.__introduction-p p{
+    width: 100%;
+    max-width: 800px;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 800px;
+    transform: translateY(25%);
+    font-size: 20px;
+    color: #283E51;
+    font-family: Gilroy-Regular;
+}
