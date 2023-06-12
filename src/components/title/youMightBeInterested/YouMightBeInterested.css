@@ -1,11 +1,7 @@
-@font-face {
-    font-family: "Butler_Light";
-    src: url("../../assets/fonts/Butler_Light");
-}
 .__you-might-be-interested{
     font-size: 72px;
     color: #283E51;
     text-align: center;
     padding-top: 3%;
-    font-family: "Butler_Light";
+    font-family: "Butler_Light", sans-serif;
 }

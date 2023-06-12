@@ -5,11 +5,11 @@
 .__services__p1{
     padding-top: 2%;
     font-size: 26px;
-    font-family: "Gilroy-Regular";
+    font-family: "Gilroy-Regular", sans-serif;
 }
 .__services__p2{
     font-size: 34px;
-    font-family: "Gilroy-Bold";
+    font-family: "Gilroy-Bold", sans-serif;
     text-decoration: line-through;
-    text-decoration-color: green;
+    text-decoration-color: #17AC9D;
 }

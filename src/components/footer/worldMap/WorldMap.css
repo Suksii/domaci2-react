@@ -3,7 +3,9 @@
     position: relative;
 }
 .__world-map__background{
-    width: 100%;
+    width: 80%;
+    margin: 0 10%;
+
 }
 .__world-map__indicator{
     position: absolute;
@@ -20,10 +22,9 @@
     border-radius: 4px;
 }
 .__world-map .__world-map__indicator span{
-    font-family: "Gilroy-Regulary",sans-serif;
     font-size: 22px;
     line-height: 33px;
-    font-family: "Gilroy-Regular";
+    font-family: "Gilroy-Regular", sans-serif;
     color: #283E51;
     padding-left: 20px;
     padding-right: 5px;
@@ -35,7 +36,7 @@
 .__world-map__information{
     position: absolute;
     right: 50%;
-    bottom: 35%;
+    bottom: 18%;
     color: #FFFFFF;
     transform: translateX(50%);
 }
@@ -49,12 +50,20 @@
 }
 .__world-map__information .__world-map__amplitudo p{
     font-size: 34px;
-    font-family: "Gilroy-Bold";
+    font-family: "Gilroy-Bold", sans-serif;
     color: #FFFFFF;
 }
 .__world-map__amplitudo__p2{
-    transform: translateX(20%);
+    transform: translateX(18%);
 }
 .__world-map__amplitudo__contact{
     margin-top: 10%;
+}
+.__world-map__amplitudo__contact a{
+    text-align: center;
+    color: #FFFFFF;
+    display: block;
+    max-width: 60%;
+    margin: 0 auto;
+    padding: 1%;
 }

@@ -1,11 +1,7 @@
-@font-face {
-    font-family: "Butler-Regular";
-    src: url("../../assets/fonts/Butler-Regular");
-}
-
 .__software-development{
+    margin: auto;
     text-align: center;
     font-size: 100px;
     color: #283E51;
-    font-family: "Butler-Regular";
+    font-family: "Butler-Regular", sans-serif;
 }
